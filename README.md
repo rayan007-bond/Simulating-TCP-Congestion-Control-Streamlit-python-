@@ -1,5 +1,4 @@
 # Simulating-TCP-Congestion-Control-Streamlit-python-
-# 🚦 TCP Congestion Control Visual Simulator
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/streamlit-1.22.0-%23FF4B4B)](https://streamlit.io/)
